@@ -6,3 +6,8 @@ Command to clone environment from spec file:
 conda create --name myenv --file spec-file.txt
 replace "myenv" with required name for your environment. 
 repalce "spec-file.txt" with name of the text file 
+
+
+### Output Refractive field plot
+
+![Refractive index plot](https://github.com/ajayraghASL/Grib-3D_Refractive_Field/blob/main/Outputs/nfield_combined.png "Refractive index layer plot")
